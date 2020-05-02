@@ -1,9 +1,0 @@
-git --global gituser "username"
-git --global gitemail "email"
-git --version
-git init
-git add "file name"
-git commit -m ""comments
-git status
-git log
-
